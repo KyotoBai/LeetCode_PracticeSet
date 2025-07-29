@@ -44,4 +44,8 @@ public class TreeNode {
 
         return root;
     }
+
+    public void printTree(){
+
+    }
 }

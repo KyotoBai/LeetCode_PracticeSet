@@ -1,6 +1,5 @@
 package BinaryTree.BST;
 
-
 public class LC_236 {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if(root == null || root == p || root == q) return root;
